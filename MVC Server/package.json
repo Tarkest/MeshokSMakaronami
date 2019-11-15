@@ -1,0 +1,20 @@
+{
+  "name": "mvc-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mysql2": "^2.0.0",
+    "nodemon": "^1.19.4",
+    "pug": "^2.0.4",
+    "sequelize": "^5.21.2"
+  }
+}
